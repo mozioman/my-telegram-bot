@@ -23,7 +23,7 @@ from datetime import datetime
 # ═══════════════════════════════════════════
 #              تنظیمات اصلی
 # ═══════════════════════════════════════════
-TOKEN = "AAHFOyynNepk9KNTPYMJWoDwR4WU1VNMPZ4"   # ← توکن ربات رو اینجا بذار
+TOKEN = "8236462182:AAHFOyynNepk9KNTPYMJWoDwR4WU1VNMPZ4"   # ← توکن ربات رو اینجا بذار
 OWNER_IDS = [8236462182]               # ← آیدی عددی خودت، مثلاً: [123456789]
 
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
